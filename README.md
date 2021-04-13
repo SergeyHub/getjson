@@ -11,7 +11,6 @@
         <p>6. mysql -u root -p <br>
             create database <b>db_name</b>; <br>
             exit <br>
-
         </p>
         <p>7.	npm install</p>
         <p>8.	npm run dev</p>
